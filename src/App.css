@@ -12,7 +12,7 @@ html,body, #root, .App{
     background-size: 300% !important;
     background: linear-gradient(45deg, #D5FFD0, #40F8FF);
     background-color: #279EFF;
-    animation: anim 2s;
+    animation: anim 5s;
     animation-iteration-count: infinite;
 }
 
